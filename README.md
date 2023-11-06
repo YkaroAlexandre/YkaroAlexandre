@@ -1,4 +1,4 @@
-![image](https://github.com/YkaroAlexandre/YkaroAlexandre/assets/97710293/174ec3fa-5bc1-4e02-82f4-6422e5322756)
+![image](https://github.com/YkaroAlexandre/YkaroAlexandre/assets/97710293/0aa1c6f0-9bc6-45ee-a2ad-d922a57d5320)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YkaroAlexandre&show_icons=true&theme=radical)
 
