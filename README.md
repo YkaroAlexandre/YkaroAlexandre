@@ -4,7 +4,7 @@
 
   
 
-- 🌱 Eu estou atualmente aprendendo React Native e Java  
+- 🌱 Eu estou atualmente aprendendo mais sobre o framework Django em Python  
   
 
 - ⚡ Tenho conhecimentos em Python, Java e JavaScript.  
