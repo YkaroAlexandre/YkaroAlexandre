@@ -4,7 +4,7 @@
 
   
 
-- 🌱 Eu estou atualmente aprendendo mais sobre o framework Django em Python  
+- 🌱 Eu estou atualmente aprendendo mais sobre JavaScript  
   
 
 - ⚡ Tenho conhecimentos em Python, Java e JavaScript.  
